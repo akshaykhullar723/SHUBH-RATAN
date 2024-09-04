@@ -1,0 +1,2 @@
+root: C:\Users\hp\project_modern_ui_ux_restaurant\nvm
+path: C:\Program Files\nodejs

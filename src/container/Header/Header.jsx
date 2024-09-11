@@ -12,7 +12,7 @@ const Header = () => (
       <p className="p__opensans" style={{ margin: '2rem 0' }}>
         &apos;Step into our restaurant and be transported to a world of elegance and sophistication. Our signature decorations, carefully crafted by the renowned Divish Arora, create an ambiance that&apos;s both luxurious and inviting. From bespoke centerpieces to intricate lighting designs, every detail is meticulously planned to provide an unforgettable dining experience.&apos;
       </p>
-      <a href="https://www.instagram.com/ng_mall_ynr/">
+      <a href="https://www.instagram.com/ngmall001/">
         <button type="button" className="custom__button">Explore Menu</button>
       </a>
     </div>

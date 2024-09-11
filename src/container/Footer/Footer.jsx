@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2024 Shubh Ratan. All Rights reserved.</p>
+      <p className="p__opensans">2024 Shubh Ratan. All Rights reserved. Developed by Akshay khullar</p>
     </div>
 
   </div>
